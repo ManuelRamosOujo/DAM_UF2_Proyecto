@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: a7823a81dc329b44b842fbea9e82c55c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Normal_Stick_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 32}
+        - {x: -15, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7d5a4ee86f994d94a9639658a4650
+      internalID: 178544412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 32}
+        - {x: -15, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3659ce8f07acc9346a43bf6f2412ed8c
+      internalID: -374416885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 32}
+        - {x: -15, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1108e5c738046bc45a7cae39ec9524a9
+      internalID: -197988151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 32}
+        - {x: -15, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fa13be0bd0234eaaf910b04c7535b
+      internalID: -896167918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -32}
+        - {x: 11, y: -32}
+        - {x: 11, y: 32}
+        - {x: -15, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2dbce82c62b8488bcca9d65074979
+      internalID: -26670503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 32}
+        - {x: -11, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b70e1c6c861b43931d6d3a4a54eef
+      internalID: 624574952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 32}
+        - {x: -15, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcba85f1517849544bdb17e214fecc56
+      internalID: 1240775983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 32}
+        - {x: -15, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd98bc9b047cdf4ba7e86b21b5cefda
+      internalID: 1048739240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 158
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 32}
+        - {x: -12, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f32ebd5213b14ebc85f9629d69abb
+      internalID: -2133992289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 32}
+        - {x: -11, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0a001df08aa69498bba7390687d1df
+      internalID: 1025136975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -32}
+        - {x: 0, y: -32}
+        - {x: 0, y: 32}
+        - {x: -18, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f0a01eff650345bd5fe7f89e5de69
+      internalID: -1539187656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: -32}
+        - {x: -4, y: -32}
+        - {x: -4, y: 32}
+        - {x: -22, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a1a496c88ee7469ffd8b6a3c8d0ee
+      internalID: -1809831786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -32}
+        - {x: 0, y: -32}
+        - {x: 0, y: 32}
+        - {x: -16, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129edcb5a184faf439ddfa3e7eb09bcd
+      internalID: -624263905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 82
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -32}
+        - {x: 0, y: -32}
+        - {x: 0, y: 32}
+        - {x: -18, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb023f67d1306f54a963de295b3eb7cb
+      internalID: -555552850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 32}
+        - {x: -2, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f6c7adee80215429d3c1e5e8bed7ab
+      internalID: 1190086775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 32}
+        - {x: -2, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf19734d0df4441bebf41f006fd0e6
+      internalID: -1384790468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -31}
+        - {x: 21, y: -32}
+        - {x: 21, y: 32}
+        - {x: 2, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c816d8a67a7a3d41a93094cb3538288
+      internalID: 856962101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_Stick_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 32}
+        - {x: -2, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736568af8b3ccbe47be2093ff7f19ed5
+      internalID: 1695219103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Normal_Stick_0: 178544412
+      Normal_Stick_1: -374416885
+      Normal_Stick_10: -1539187656
+      Normal_Stick_11: -1809831786
+      Normal_Stick_12: -624263905
+      Normal_Stick_13: -555552850
+      Normal_Stick_14: 1190086775
+      Normal_Stick_15: -1384790468
+      Normal_Stick_16: 856962101
+      Normal_Stick_17: 1695219103
+      Normal_Stick_2: -197988151
+      Normal_Stick_3: -896167918
+      Normal_Stick_4: -26670503
+      Normal_Stick_5: 624574952
+      Normal_Stick_6: 1240775983
+      Normal_Stick_7: 1048739240
+      Normal_Stick_8: -2133992289
+      Normal_Stick_9: 1025136975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

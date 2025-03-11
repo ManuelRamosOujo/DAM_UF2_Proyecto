@@ -1,54 +1,54 @@
 # GDD
 
-(Cubrir según necesidades)
-
 ## PRESENTACIÓN/RESUMEN
 
-- Título. 
-- Concepto: descripción breve (un párrafo) de las ideas principales del juego
-- Género (puede ser más de uno)
-- Público (target audience)
-- Plataforma (PC, smartphone, tablet,...)
+- Título: A Adventure Game
+- Concepto: descripción breve (un párrafo) de las ideas principales del juego.
+- Género: Aventuras
+- Público: jugadores que a les guste investigar cada rincón de un juego.
+- Plataforma: PC
 
 ## GAMEPLAY
 
 ### Objetivos
 
-Descripción de cuáles son los objetivos principales (y secundarios si los hay) del juego
+Viajar por cada rincón del mapa.
 
 #### Jugabilidad
 
-Descripción de la interacción y experiencia del jugador. Sistemas de premios o recompensas. Puzzles,...
+Mueves a tu personaje entre pantallas mientras derrotas enemigos y evitas trampas.
 
 ### Progresión
 
-Avance entre las distintas fases (si las hay) del juego.
+Avanza por el mapa hasta la mazmorra mientras buscas power-ups.
 
 ### GUI
 
-Descripción del GUI y de la información mostrada al jugador durante el desarrollo de la partida
+En pantalla se muestra: 
+
+- La salud del jugardor mediante una fila de corazones.
+- Las acciones dispoñibles en cada uno de los botones.
+- Las llaves recogidas si se tiene al menos una.
 
 ## MECÁNICAS
 
-- Reglas: condiciones de victoria, condiciones de pérdida, reglas de combate,...
-- Interacción: controles e interacción del jugador con el personaje, acciones posibles, interacción con otros elementos o personajes,...
-- Puntaje: sistema de puntaje
-- Dificultad: parámetros de dificultad progresiva
+- Reglas: no hay condiciones de victoria, si tu vida baja a cero pierdes.
+- Interacción: 
+	- Pulsando click izquierdo atacas si tienes un arma o interactuas con objetos si tienen esa opción.
+	- Pulsando click derecho colocas bombas.
+- Dificultad: aumenta o se reduce dependiendo de la zona en la que te encuentres y de las mejoras que ya tienes.
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
 Caracterización del mundo/entorno en el que se desarrolla el videojuego (Worldbuilding). Puede incluir:
 
-- Leyes físicas
-- Historia
-- Personajes: descripción, arte,...
-- Niveles
-- Elementos culturales o geográficos
-- ...
+- Personajes
+- Power-ups
+- Enemigos
+- Mapa: mazmorra y superficie
 
 ## ASSETS
 
-- Música
-- Efectos de sonido
-- Modelos 2D/3D
-- ...
+- Sprites
+- Animaciones
+- Scripts

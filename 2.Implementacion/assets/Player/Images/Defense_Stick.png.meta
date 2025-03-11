@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 1b1c8237f09159b4e91a8e77af013645
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Defense_Stick_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 32}
+        - {x: -15, y: 32}
+        - {x: -15, y: -32}
+        - {x: 11, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba80a65d5b4d3b4bba52b294a7fa685
+      internalID: -1199745880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 32}
+        - {x: -15, y: 32}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f55415f5cc30468cb8eb214f01259
+      internalID: -1936107180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 32}
+        - {x: -15, y: 32}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa884a1f5a4f4ce4db68db689d943234
+      internalID: 1417054455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 32}
+        - {x: -15, y: 32}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3286155b7d7a52a409e9127fb280f7f7
+      internalID: -442575893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 32}
+        - {x: -15, y: 32}
+        - {x: -15, y: -32}
+        - {x: 11, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413826648beab554bb76889b58e705ce
+      internalID: -1244196914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f466ea29eea4e4d9fac46fc7b8256d
+      internalID: 27821407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 32}
+        - {x: -15, y: 32}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec4e9115d55184780e3fd1f8c5c8f7
+      internalID: 859728032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 32}
+        - {x: -15, y: 32}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a1c18de2ee6c419a736aeb50f880c
+      internalID: 79870700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 158
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: -32}
+        - {x: 18, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a236681815f248ad03f85e0f55f57
+      internalID: -1532312976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dee3f81eb707148a82232fe0fd6a10
+      internalID: -951271011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 32}
+        - {x: -18, y: 32}
+        - {x: -18, y: -32}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9644da11284146abf3b7b49cc44e6
+      internalID: 1284823168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 32}
+        - {x: -22, y: 32}
+        - {x: -22, y: -32}
+        - {x: -4, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501ea1992494934da575117ef7ccb14
+      internalID: -697710483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 32}
+        - {x: -16, y: 32}
+        - {x: -16, y: -32}
+        - {x: 2, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0079650308535041bc2485adbd22d6d
+      internalID: -1231297273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 82
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 32}
+        - {x: -18, y: 32}
+        - {x: -18, y: -32}
+        - {x: 0, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce2ea98fa8b1f4dab44fb1e334314e
+      internalID: 1077893678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: 32}
+        - {x: -1, y: 32}
+        - {x: -1, y: -32}
+        - {x: 17, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace72d7648b49f4abce08f79a07c507
+      internalID: -332734472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 32}
+        - {x: -2, y: 32}
+        - {x: -2, y: -32}
+        - {x: 16, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c8f83ed208b44583331c56c04e17b
+      internalID: -420822345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 32}
+        - {x: 3, y: 32}
+        - {x: 3, y: -32}
+        - {x: 21, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09ea938458eede49b50cfec5f466d94
+      internalID: -1066098401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_Stick_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: 32}
+        - {x: -1, y: 32}
+        - {x: -1, y: -32}
+        - {x: 17, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99ce747b4674540a7cf7e97a41fb88
+      internalID: 852070152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Defense_Stick_0: -1199745880
+      Defense_Stick_1: -1936107180
+      Defense_Stick_10: 1284823168
+      Defense_Stick_11: -697710483
+      Defense_Stick_12: -1231297273
+      Defense_Stick_13: 1077893678
+      Defense_Stick_14: -332734472
+      Defense_Stick_15: -420822345
+      Defense_Stick_16: -1066098401
+      Defense_Stick_17: 852070152
+      Defense_Stick_2: 1417054455
+      Defense_Stick_3: -442575893
+      Defense_Stick_4: -1244196914
+      Defense_Stick_5: 27821407
+      Defense_Stick_6: 859728032
+      Defense_Stick_7: 79870700
+      Defense_Stick_8: -1532312976
+      Defense_Stick_9: -951271011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

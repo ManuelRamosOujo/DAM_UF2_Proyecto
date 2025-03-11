@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 1756813b26dfbdc499619a638e171060
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Defense_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ed8ee4c2dfd34886991246b8b40cb
+      internalID: -1735859014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5b6861fda152c48b4ff562d85b0f0f
+      internalID: -292631100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2507f584183a43489415d34deabf688
+      internalID: -1301300169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487614ab6daabb14993c762d3082910a
+      internalID: -520271740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d77ca803854a14d9788da2f457fd8c
+      internalID: -1108577873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34695d1c13d57f143ac5fea2ad32fed8
+      internalID: -996182269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eddffab71fd5b41ab85ac742598709
+      internalID: -1052312387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1919cd5887b69ac4195173982b30a954
+      internalID: -738470398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 158
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd948cdefde9e3f45ae01d6d323198fa
+      internalID: 956372908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 158
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 33}
+        - {x: -15, y: -33}
+        - {x: 15, y: -33}
+        - {x: 15, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cda786cc57ea44997e3f2a0820c8a3
+      internalID: -1952642655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e65926e7020b74ea3ee389595bf041
+      internalID: 339059781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4423ecff1da26499682878022daed6
+      internalID: 1521436676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85236e81bdc9a414ea4365f1206edd8b
+      internalID: -22079785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 82
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b191d0b1819669459dad38f1181bec5
+      internalID: 1644386431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5a132dba283a44b1eff67df3a462f
+      internalID: -185430365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc05d24684d88b4788cd0681f4f917e
+      internalID: -1955186594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d32cb23612e3149999a640914ce654
+      internalID: -568027561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 6
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 33}
+        - {x: -9, y: -33}
+        - {x: 9, y: -33}
+        - {x: 9, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb10d3267bb2c43b1fc6cd83fbaa2c
+      internalID: -1097396924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Defense_0: -1735859014
+      Defense_1: -292631100
+      Defense_10: 339059781
+      Defense_11: 1521436676
+      Defense_12: -22079785
+      Defense_13: 1644386431
+      Defense_14: -185430365
+      Defense_15: -1955186594
+      Defense_16: -568027561
+      Defense_17: -1097396924
+      Defense_2: -1301300169
+      Defense_3: -520271740
+      Defense_4: -1108577873
+      Defense_5: -996182269
+      Defense_6: -1052312387
+      Defense_7: -738470398
+      Defense_8: 956372908
+      Defense_9: -1952642655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

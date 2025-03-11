@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 60dc376b21879c54999d39963b58043c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crioracnido_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: 10}
+        - {x: -2.5, y: 5}
+        - {x: -7.5, y: 4}
+        - {x: -12.5, y: 0}
+        - {x: -12.5, y: -10}
+        - {x: 12.5, y: -10}
+        - {x: 12.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 2.5, y: 5}
+        - {x: 1.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92e9d423f125747b11c5b850eefbd3
+      internalID: 850805094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 10}
+        - {x: -2, y: 5}
+        - {x: -7, y: 4}
+        - {x: -12, y: 0}
+        - {x: -12, y: -10}
+        - {x: 12, y: -10}
+        - {x: 12, y: 1}
+        - {x: 10, y: 3}
+        - {x: 1, y: 5}
+        - {x: 1, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466617fd78001e84a930953c19453976
+      internalID: 517692568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 10}
+        - {x: -2, y: 5}
+        - {x: -8, y: 4}
+        - {x: -12, y: 2}
+        - {x: -12, y: -7}
+        - {x: -6, y: -10}
+        - {x: 12, y: -10}
+        - {x: 12, y: 0}
+        - {x: 7, y: 4}
+        - {x: 3, y: 5}
+        - {x: 2, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53254749111a7bd4498d24d49aa968bf
+      internalID: -45924339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: 10}
+        - {x: -2.5, y: 4}
+        - {x: -7.5, y: 4}
+        - {x: -12.5, y: 0}
+        - {x: -12.5, y: -10}
+        - {x: 12.5, y: -10}
+        - {x: 12.5, y: 0}
+        - {x: 6.5, y: 4}
+        - {x: 2.5, y: 4}
+        - {x: 1.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280db608dd582ee41bb40883510cf894
+      internalID: 1953096887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12.5, y: -1}
+        - {x: 7.5, y: 3}
+        - {x: 2.5, y: 5}
+        - {x: 1.5, y: 9}
+        - {x: -1.5, y: 9}
+        - {x: -2.5, y: 4}
+        - {x: -5.5, y: 4}
+        - {x: -12.5, y: -1}
+        - {x: -12.5, y: -9}
+        - {x: 12.5, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27979492e407b4f99d49bae1513c21
+      internalID: 120663711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -6.5}
+        - {x: 12, y: 1.5}
+        - {x: 2, y: 4.5}
+        - {x: 1, y: 9.5}
+        - {x: -2, y: 9.5}
+        - {x: -3, y: 4.5}
+        - {x: -7, y: 4.5}
+        - {x: -12, y: -1}
+        - {x: -12, y: -9.5}
+        - {x: -8, y: -6.5}
+        - {x: -4, y: -8.5}
+        - {x: 4, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794349f009d33e4bbfb1a6bc775bfb4
+      internalID: 1003005036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 9.5}
+        - {x: -2, y: 4.5}
+        - {x: -11, y: 2.5}
+        - {x: -12, y: -3.5}
+        - {x: -12, y: -7.5}
+        - {x: -8, y: -5.5}
+        - {x: -6, y: -8.5}
+        - {x: 4, y: -8.5}
+        - {x: 8, y: -7.5}
+        - {x: 12, y: -9.5}
+        - {x: 12, y: -0.5}
+        - {x: 6, y: 4.5}
+        - {x: 2, y: 4.5}
+        - {x: 2, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57e54482f808934888bf6874e504378
+      internalID: -496000238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 69
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12.5, y: -1}
+        - {x: 5.5, y: 5}
+        - {x: 2.5, y: 5}
+        - {x: 1.5, y: 9}
+        - {x: -1.5, y: 9}
+        - {x: -2.5, y: 5}
+        - {x: -5.5, y: 5}
+        - {x: -12.5, y: -1}
+        - {x: -12.5, y: -9}
+        - {x: 12.5, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d629bb185cb4a04995bdcb78739e15a
+      internalID: -1386098679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1.5, y: 5}
+        - {x: 1.5, y: 10}
+        - {x: -1.5, y: 10}
+        - {x: -1.5, y: 5}
+        - {x: -5.5, y: 4}
+        - {x: -8.5, y: 0}
+        - {x: -8.5, y: -10}
+        - {x: 6.5, y: -10}
+        - {x: 8.5, y: -5}
+        - {x: 8.5, y: -1}
+        - {x: 7.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22162db26c678e94ea6d1974c988bdac
+      internalID: -2021703706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 5}
+        - {x: 1, y: 10}
+        - {x: -2, y: 10}
+        - {x: -2, y: 5}
+        - {x: -5.5, y: 4}
+        - {x: -9, y: 0}
+        - {x: -9, y: -10}
+        - {x: 5, y: -10}
+        - {x: 9, y: -5}
+        - {x: 9, y: -1}
+        - {x: 7, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d55db5d541e6d74db7bdd49c7cf061a
+      internalID: -1932359796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2.5, y: 5}
+        - {x: 2.5, y: 10}
+        - {x: -0.5, y: 10}
+        - {x: -0.5, y: 5}
+        - {x: -4.5, y: 4}
+        - {x: -8.5, y: -1}
+        - {x: -8.5, y: -3}
+        - {x: -6.5, y: -10}
+        - {x: 8.5, y: -10}
+        - {x: 8.5, y: -5}
+        - {x: 7.5, y: 1}
+        - {x: 6.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43105cbf1b421db4da742f451af9cbf8
+      internalID: -2073106259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 34
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 5.5}
+        - {x: 3, y: 10.5}
+        - {x: 0, y: 10.5}
+        - {x: 0, y: 6.5}
+        - {x: -5, y: 3.5}
+        - {x: -9, y: -0.5}
+        - {x: -9, y: -7.5}
+        - {x: -4, y: -10.5}
+        - {x: 7, y: -10.5}
+        - {x: 9, y: -3.5}
+        - {x: 9, y: 1.5}
+        - {x: 7, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702170442490645459e84daa317c277a
+      internalID: 737324419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: 10}
+        - {x: -1.5, y: 4}
+        - {x: -5.5, y: 4}
+        - {x: -8.5, y: 0}
+        - {x: -8.5, y: -5}
+        - {x: -6.5, y: -10}
+        - {x: 8.5, y: -10}
+        - {x: 8.5, y: 0}
+        - {x: 5.5, y: 4}
+        - {x: 2.5, y: 4}
+        - {x: 1.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69992ab19acece34d89bd8af1d7eaee0
+      internalID: 1468003807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 10}
+        - {x: -1, y: 4}
+        - {x: -5, y: 4}
+        - {x: -9, y: -1}
+        - {x: -9, y: -5}
+        - {x: -5, y: -10}
+        - {x: 9, y: -10}
+        - {x: 9, y: 0}
+        - {x: 6, y: 4}
+        - {x: 3, y: 4}
+        - {x: 2, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58b0e5b5f85dd24cb04c4e13183a687
+      internalID: 1926938837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: 10}
+        - {x: -2.5, y: 5}
+        - {x: -6.5, y: 4}
+        - {x: -8.5, y: -1}
+        - {x: -8.5, y: -10}
+        - {x: 5.5, y: -10}
+        - {x: 8.5, y: -5}
+        - {x: 8.5, y: -1}
+        - {x: 4.5, y: 4}
+        - {x: 0.5, y: 4}
+        - {x: 0.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2064ddae66ac2a4893cb149113d35df
+      internalID: -2123287707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crioracnido_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 10.5}
+        - {x: -3, y: 4.5}
+        - {x: -7, y: 4.5}
+        - {x: -9, y: 1.5}
+        - {x: -9, y: -4.5}
+        - {x: -7, y: -10.5}
+        - {x: 4, y: -10.5}
+        - {x: 9, y: -6.5}
+        - {x: 9, y: -0.5}
+        - {x: 4, y: 4.5}
+        - {x: 0, y: 4.5}
+        - {x: 0, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98be10b2224f0a4fbc696db94d6e180
+      internalID: 203140774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crioracnido_0: 850805094
+      Crioracnido_1: 517692568
+      Crioracnido_10: -2073106259
+      Crioracnido_11: 737324419
+      Crioracnido_12: 1468003807
+      Crioracnido_13: 1926938837
+      Crioracnido_14: -2123287707
+      Crioracnido_15: 203140774
+      Crioracnido_2: -45924339
+      Crioracnido_3: 1953096887
+      Crioracnido_4: 120663711
+      Crioracnido_5: 1003005036
+      Crioracnido_6: -496000238
+      Crioracnido_7: -1386098679
+      Crioracnido_8: -2021703706
+      Crioracnido_9: -1932359796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

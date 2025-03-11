@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: dd7e9cfcf7ee442409347d1cb0d2f18c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Topomba_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 139
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.2812757, y: 4.46756}
+        - {x: -6.5, y: -1.1523132}
+        - {x: -8.840813, y: -3.6228638}
+        - {x: -7.133192, y: -7.060547}
+        - {x: 6.48267, y: -7.304489}
+        - {x: 9.694624, y: -3.715393}
+        - {x: 7.377138, y: 1.0934296}
+        - {x: 6.4428997, y: 4.5397797}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6afb0a54bb12814f8b5656cc9d4f055
+      internalID: 1888840961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 139
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.2812757, y: 4.46756}
+        - {x: -6.5, y: -1.1523132}
+        - {x: -8.840813, y: -3.6228638}
+        - {x: -7.133192, y: -7.060547}
+        - {x: 6.48267, y: -7.304489}
+        - {x: 9.694624, y: -3.715393}
+        - {x: 7.377138, y: 1.0934296}
+        - {x: 6.4428997, y: 4.5397797}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d08a6f856bc5488bfe33d42e86f47
+      internalID: -358414899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 139
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.2812757, y: 4.46756}
+        - {x: -6.5, y: -1.1523132}
+        - {x: -8.840813, y: -3.6228638}
+        - {x: -7.133192, y: -7.060547}
+        - {x: 6.48267, y: -7.304489}
+        - {x: 9.694624, y: -3.715393}
+        - {x: 7.377138, y: 1.0934296}
+        - {x: 6.4428997, y: 4.5397797}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03ed60d906bcd2458a139929b4c9de8
+      internalID: 498621499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afa2c534439c2446b48254eaa9bf71a
+      internalID: -1108168816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 107
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d8658b9f4da54c978706c6051058d
+      internalID: 168766812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 107
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.2812757, y: 4.46756}
+        - {x: -6.5, y: -1.1523132}
+        - {x: -8.840813, y: -3.6228638}
+        - {x: -7.133192, y: -7.060547}
+        - {x: 6.48267, y: -7.304489}
+        - {x: 9.694624, y: -3.715393}
+        - {x: 7.377138, y: 1.0934296}
+        - {x: 6.4428997, y: 4.5397797}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc2bf9d99f66a40a67b39fb4fe4c0f
+      internalID: 76412408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ed8cd09305674b91866e6fe0a2581
+      internalID: -1779531263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc9f4c40a54bd48896ab77bc4a23bd
+      internalID: 1003798440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5277d58d0420a4485eaa56e5483592
+      internalID: 739347834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62144023cb7e20a489f7e6960c6886b4
+      internalID: -522865974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60834d04040eafb44ba922b3eac4d679
+      internalID: -1991206988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 43
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -5}
+        - {x: 6, y: -5}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740d353e21bb44409a5d1bb498c4719
+      internalID: -952831222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 14}
+        - {x: -11, y: 8}
+        - {x: -11, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e0385546acd0048953656bb34bef2d
+      internalID: -884204021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 15}
+        - {x: -15, y: 7}
+        - {x: -15, y: -7}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -7}
+        - {x: 14, y: 9}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe280dc4e9366c245bdc1a09157c39ca
+      internalID: 1253697389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Topomba_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12127a97ce827468bb52a0dd5b7c5c
+      internalID: -525721869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Topomba_0: 1888840961
+      Topomba_1: -358414899
+      Topomba_10: -1991206988
+      Topomba_11: -952831222
+      Topomba_12: -884204021
+      Topomba_13: 1253697389
+      Topomba_14: -525721869
+      Topomba_2: 498621499
+      Topomba_3: -1108168816
+      Topomba_4: 168766812
+      Topomba_5: 76412408
+      Topomba_6: -1779531263
+      Topomba_7: 1003798440
+      Topomba_8: 739347834
+      Topomba_9: -522865974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
